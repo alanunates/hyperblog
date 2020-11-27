@@ -1,0 +1,25 @@
+[33mcommit 5e2f41f6389ca03b0a0cd390f197c471d620b380[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: unknown <alanunates_11@hotmail.com>
+Date:   Mon Nov 23 16:16:14 2020 -0300
+
+    Agregamos el cargo de la persona
+    
+    La persona es Freddy
+
+[33mcommit b63d394169c460a57c9217cf8bcda1767e40e29d[m
+Author: unknown <alanunates_11@hotmail.com>
+Date:   Mon Nov 23 16:12:55 2020 -0300
+
+    Agregamos un cambio a su estatura
+
+[33mcommit 5e24c3db1176ffed2b8fefeeaf7192501c0dad3b[m
+Author: unknown <alanunates_11@hotmail.com>
+Date:   Tue Nov 17 16:12:05 2020 -0300
+
+    Cambios a archivo de historia para reflejar la edad correcta
+
+[33mcommit 4f4b9ee460e3cda85e599c4631cab27d85c12a9c[m
+Author: unknown <alanunates_11@hotmail.com>
+Date:   Tue Nov 17 16:07:12 2020 -0300
+
+    Este es el primer commit de este archivo
